@@ -1,0 +1,17 @@
+{
+  "name": "tail-f",
+  "version": "0.1.0",
+  "description": "a tail for node.js that actually works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.8.0",
+    "gaze": "^0.5.1",
+    "glob": "^3.2.9",
+    "graceful-fs": "^2.0.3"
+  }
+}
